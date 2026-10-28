@@ -2,7 +2,7 @@
 
 
 def baca_data(file_input):
-    """Mengembalikan data valid dan daftar peringatan."""
+    """Mengembalikan Data Valid dan Daftar Peringatan."""
     data = []
     peringatan = []
 
