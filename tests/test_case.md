@@ -1,4 +1,4 @@
-# Test Case - Pertemuan 15
+# Test case - Pertemuan 15
 
 Jumlah test case: 7. Bare minimum pada bahan ajar adalah 5; dua kasus tambahan menjadikan jumlahnya 7. Jalankan setiap kasus dari terminal pada folder utama proyek. Isi kolom Aktual dan Status hanya setelah kasus dijalankan.
 
