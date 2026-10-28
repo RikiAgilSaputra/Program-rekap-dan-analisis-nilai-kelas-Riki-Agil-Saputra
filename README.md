@@ -102,8 +102,8 @@ TC01 sampai TC07 telah dijalankan ulang dan hasilnya sesuai harapan. Status PASS
 
 ## Git dan GitHub
 
-Folder Pertemuan 15 ini belum memiliki repositori Git lokal atau URL GitHub sendiri. Jika salinan ini akan dikumpulkan melalui GitHub, buat repositori untuk folder Pertemuan 15 dan tambahkan URL-nya setelah berhasil dipublikasikan.
-
+Folder program ini tertaut dengan link repositori github:
+https://github.com/RikiAgilSaputra/Program-rekap-dan-analisis-nilai-kelas-Riki-Agil-Saputra.
 ## Anggota dan Kontribusi
 
 Cantumkan nama anggota kelompok dan kontribusi masing-masing sebelum pengumpulan.
