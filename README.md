@@ -1,6 +1,6 @@
 # Program Rekap dan Analisis Nilai Matematika Kelas
 
-Salinan tahap implementasi Pertemuan 15 dari proyek Pertemuan 14. Tujuan program, format data, rentang nilai, KKM, dan jalur input/output mengikuti proyek acuan. Folder Pertemuan 15 terpisah dan tidak mengubah berkas Pertemuan 14.
+Salinan tahap implementasi Pertemuan 15 dari proyek Pertemuan 14. Tujuan program, format data, rentang nilai, KKM, dan jalur input/output mengikuti proyek acuan. Folder Pertemuan 15 terpisah dan tidak mengubah berkas pertemuan 14.
 
 ## Deskripsi
 
