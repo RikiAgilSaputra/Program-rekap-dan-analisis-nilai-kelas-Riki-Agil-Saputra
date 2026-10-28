@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+output/laporan_nilai.txt
+.DS_Store
+Thumbs.db
