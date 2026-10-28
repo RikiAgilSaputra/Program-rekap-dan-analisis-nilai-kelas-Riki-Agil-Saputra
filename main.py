@@ -1,4 +1,4 @@
-"""Program mandiri rekap dan analisis nilai matematika kelas."""
+"""Program Mandiri Rekap dan Analisis Nilai Matematika Kelas."""
 
 FILE_INPUT = "data/nilai_contoh.txt"
 FILE_OUTPUT = "output/laporan_nilai.txt"
