@@ -2,7 +2,7 @@
 ## Program Rekap dan Analisis Nilai Matematika Kelas
 
 **Mata Kuliah:** Algoritma dan Pemrograman  
-**Program Studi:** S1 Pendidikan Matematika FKIP Universitas Sultan Ageng Tirtayasa  
+**Program Studi:** S1 Pendidikan Matematika FKIP Universitas Sultan Ageng Tirtayasa  (UNTIRTA)
 **Acuan:** Proposal proyek Pertemuan 14  
 **Tahap:** Implementasi, pengujian, dokumentasi, dan persiapan demonstrasi  
 **Tahun Ajaran:** 2026/2027 Ganjil
