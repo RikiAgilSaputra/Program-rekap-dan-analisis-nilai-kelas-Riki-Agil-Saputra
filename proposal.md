@@ -66,4 +66,4 @@ Hasil aktual dan status dicatat di `tests/test_case.md` setelah dijalankan. TC01
 
 ## 7. Integritas Akademik
 
-Setiap anggota bertanggung jawab memahami kode, hasil uji, perbaikan, dan kontribusinya. Catat bantuan atau sumber yang digunakan sesuai kebijakan mata kuliah.
+Setiap anggota bertanggung jawab memahami kode, hasil uji, perbaikan, dan kontribusinya. Ai codex dipergunakan sebagai alat bantu untuk menyusun proyek ini.
